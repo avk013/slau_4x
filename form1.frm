@@ -581,7 +581,8 @@ End If
 End Sub
 
 Private Sub Command3_Click()
-
+' copyright Kovalenko Olexander, 2010, avk013
+' modify Suprun I, 2011
 Dim M(4, 4) As Double
 Dim V(4) As Double
 Dim X(4) As Double
